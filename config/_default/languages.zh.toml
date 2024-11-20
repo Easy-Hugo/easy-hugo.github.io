@@ -1,0 +1,35 @@
+
+[params.homeInfoParams]
+Content = ""
+Title = "### 随时随地,轻松管理您的Hugo"
+
+
+# ---------菜单部分-------
+[[menu.main]]
+identifier = "posts"
+name = "分类"
+url = "/posts/"
+weight = 10
+
+[[menu.main]]
+identifier = "archives"
+name = "归档"
+url = "/archives/"
+weight = 20
+
+[[menu.main]]
+identifier = "tags"
+name = "标签"
+url = "/tags/"
+weight = 30
+
+[[menu.main]]
+identifier = "series"
+name = "系列"
+url = "/series/"
+weight = 40
+
+[[menu.main]]
+name = "搜索"
+url = "/search/"
+weight = 50

@@ -1,0 +1,130 @@
+baseURL = "https://easy-hugo.github.io/"
+buildDrafts = true
+buildExpired = true
+buildFuture = true
+enableEmoji = true
+enableInlineShortcodes = true
+enableRobotsTXT = true
+defaultContentLanguage = "en"
+disableHugoGeneratorInject = true
+summaryLength = 70
+hasCJKLanguage = true
+theme = ["PaperMod"]
+title = "EasyHugo"
+mainsections = ["posts"]             # 主要内容目录
+
+[pagination]
+pagerSize = 20
+
+[markup.highlight]
+noClasses = false
+
+[markup.goldmark.renderer]
+unsafe = false
+
+[minify]
+disableXML = true
+minifyOutput = true
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[params]
+keywords = [
+  "EasyHugo",
+  "Hugo blog management",
+  "Hugo mobile app",
+  "Hugo site management",
+  "Write and sync with Git",
+  "Mobile writing hugo",
+  "Hugo post preview",
+  "Personal data control app",
+  "Mobile Markdown writing"
+]
+displayFullLangName = true
+defaultTheme = "auto"
+ShowAllPagesInArchive = true
+ShowPageNums = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+ShowPostNavLinks = true
+ShowReadingTime = true
+ShowWordCount = false
+ShowRssButtonInSectionTermList = true
+ShowShareButtons = true
+UseHugoToc = true
+hideFooter = false
+ShowFullTextinRSS = true
+author = "EasyHugo"
+comments = false
+description = " EasyHugo is a streamlined mobile app designed specifically for Hugo users, offering a clean and intuitive interface to help you write and manage Hugo posts anytime, anywhere. With Markdown support, you can easily capture life’s moments on the go, and even enhance your posts by inserting images effortlessly."
+disableScrollToTop = false
+disableSpecial1stPost = false
+disableThemeToggle = false
+env = "production"
+hideSummary = false
+hidemeta = false
+images = ["/images/avatar.png"]
+showtoc = true                                                                                                                                                                                                                                                                                                                                                                                          # 显示目录
+tocopen = true                                                                                                                                                                                                                                                                                                                                                                                          # 自动展开目录
+social = true
+
+[params.homeInfoParams]
+Content = ""
+Title = "### Easy Hugo Management – Anytime, Anywhere."
+
+[[params.socialIcons]]
+name = "email"
+url = "mailto:xgdebug@outlook.com"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/Easy-Hugo/"
+[[params.socialIcons]]
+name = "rss"
+url = "/index.xml"
+
+[params.assets]
+apple_touch_icon = "/images/512.png"
+avatarURL = "/images/256.png"
+favicon = "/images/favicon.ico"
+favicon16x16 = "/images/16.png"
+favicon32x32 = "/images/32.png"
+faviconpng = "/images/favicon.png"
+
+[params.cover]
+hidden = false
+hiddenInList = true
+hiddenInSingle = true
+
+
+[params.fuseOpts]
+distance = 1_000
+isCaseSensitive = false
+keys = ["title", "permalink", "summary", "content"]
+limit = 10
+location = 0
+minMatchCharLength = 0
+shouldSort = true
+threshold = 0.4
+
+[params.label]
+icon = "/images/512.png"
+iconHeight = 35
+text = ""
+
+[params.analytics.bing]
+SiteVerificationTag = "452C24BC8E4B77F84D7DECCB8D52E6D4"
+
+[params.analytics.google]
+SiteVerificationTag = "x9YGXM0y1Mg7D6nxFe-KR_88vWYJpUieG4k7r8qHais"
+
+[params.analytics.yandex]
+SiteVerificationTag = ""
+
+[taxonomies]
+tag = "tags"
+series = "series"
+# category = 'categories'
+
+

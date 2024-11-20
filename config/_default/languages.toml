@@ -1,0 +1,18 @@
+[zh]
+disabled = true
+contentDir = 'content/zh-CN'
+languageCode = 'zh-CN'
+languageDirection = 'ltr'
+LanguageName = '中文'
+title = "EasyHugo"
+weight = 10
+
+
+[en]
+contentDir = 'content/en-US'
+disabled = false
+languageCode = 'en-US'
+languageDirection = 'ltr'
+LanguageName = 'English'
+title = "EasyHugo"
+weight = 20
