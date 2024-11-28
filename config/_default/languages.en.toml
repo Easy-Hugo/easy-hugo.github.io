@@ -6,8 +6,8 @@ Title = "### Easy Hugo Management – Anytime, Anywhere."
 # ---------菜单部分-------
 [[menu.main]]
 identifier = "posts"
-name = "Categories"
-url = "/posts/"
+name = "Download"
+url = "/posts/change-log/"
 weight = 10
 
 [[menu.main]]

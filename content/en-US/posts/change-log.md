@@ -8,6 +8,7 @@ draft = true
 
 - Date: 2024-11-27
 - Version: [1.0.9]
+- [Download Link](https://github.com/Easy-Hugo/release/releases)
 
 ### New Features:
 
