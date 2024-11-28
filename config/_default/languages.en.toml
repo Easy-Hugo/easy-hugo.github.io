@@ -7,7 +7,7 @@ Title = "### Easy Hugo Management – Anytime, Anywhere."
 [[menu.main]]
 identifier = "posts"
 name = "Download"
-url = "/posts/change-log/"
+url = "https://github.com/Easy-Hugo/release/releases"
 weight = 10
 
 [[menu.main]]

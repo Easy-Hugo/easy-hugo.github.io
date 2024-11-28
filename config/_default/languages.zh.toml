@@ -7,8 +7,8 @@ Title = "### 随时随地,轻松管理您的Hugo"
 # ---------菜单部分-------
 [[menu.main]]
 identifier = "posts"
-name = "分类"
-url = "/posts/"
+name = "下载"
+url = "https://github.com/Easy-Hugo/release/releases"
 weight = 10
 
 [[menu.main]]
