@@ -4,6 +4,8 @@ date = 2024-11-17T13:47:56+08:00
 draft = false
 +++
 
+## [DownLoad](https://github.com/Easy-Hugo/release/releases)
+
 ## Add Your Repository
 
 ![Add Your Repository](images/quick-start/1.PNG)

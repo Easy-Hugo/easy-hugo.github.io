@@ -11,22 +11,17 @@ url = "https://github.com/Easy-Hugo/release/releases"
 weight = 10
 
 [[menu.main]]
-identifier = "archives"
-name = "Archives"
-url = "/archives/"
-weight = 20
-
-[[menu.main]]
-identifier = "tags"
-name = "Tags"
-url = "/tags/"
+identifier = "series"
+name = "QuickStart"
+url = "/posts/quick-start/"
 weight = 30
 
 [[menu.main]]
-identifier = "series"
-name = "Series"
-url = "/series/"
+identifier = "archives"
+name = "Archives"
+url = "/archives/"
 weight = 40
+
 
 [[menu.main]]
 name = "Search"
