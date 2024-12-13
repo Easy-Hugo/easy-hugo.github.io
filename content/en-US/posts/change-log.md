@@ -8,6 +8,7 @@ draft = true
 
 - Date: 2024-12-13
 - Version: [1.0.10]
+- [Download Link](https://github.com/Easy-Hugo/release/releases)
 - When setting the title, you can click on a blank space to hide the keyboard.
 - Change the keyboard done button to next
 
