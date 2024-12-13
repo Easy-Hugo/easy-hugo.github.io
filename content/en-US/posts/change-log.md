@@ -4,6 +4,14 @@ date = 2024-11-27T14:07:59+08:00
 draft = true
 +++
 
+### Click on a blank space to hide the keyboard  
+
+- Date: 2024-12-13
+- Version: [1.0.10]
+- When setting the title, you can click on a blank space to hide the keyboard.
+- Change the keyboard done button to next
+
+
 ## Add Recent Files History Feature
 
 - Date: 2024-11-27
