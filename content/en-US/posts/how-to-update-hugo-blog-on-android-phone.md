@@ -39,3 +39,7 @@ It is against this backdrop that EasyHugo was born. This application, specially 
 ### Conclusion
 
 EasyHugo is not just a tool; it's a bridge connecting creators and readers. It breaks down spatial barriers, allowing inspiration to be captured anytime; it simplifies the process, making creation purer. If you are looking for a more flexible and efficient way to manage your blog, then EasyHugo is definitely worth trying!
+
+![WebSite](https://easy-hugo.github.io/)
+![Github](https://github.com/Easy-Hugo/release/releases)
+![Download](https://github.com/Easy-Hugo/release/releases)

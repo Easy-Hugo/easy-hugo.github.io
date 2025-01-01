@@ -4,11 +4,22 @@ date = 2024-11-27T14:07:59+08:00
 draft = true
 +++
 
-## Add Recent Files History Feature
+## 1.0.11
+
+- Date: 2025-01-01
+- Version: [1.0.11]
+- Add undo and redo
+- [Download Link](https://github.com/Easy-Hugo/release/releases)
+
+## 1.0.10
 
 - Date: 2024-11-27
 - Version: [1.0.9]
 - [Download Link](https://github.com/Easy-Hugo/release/releases)
+
+## 1.0.9
+
+Add Recent Files History Feature
 
 ### New Features:
 
