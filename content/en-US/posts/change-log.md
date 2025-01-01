@@ -6,12 +6,23 @@ draft = true
 
 ## 1.0.11
 
+### Add undo and redo
+
 - Date: 2025-01-01
 - Version: [1.0.11]
-- Add undo and redo
 - [Download Link](https://github.com/Easy-Hugo/release/releases)
 
 ## 1.0.10
+
+### Click on a blank space to hide the keyboard
+
+- Date: 2024-12-13
+- Version: [1.0.10]
+- [Download Link](https://github.com/Easy-Hugo/release/releases)
+- When setting the title, you can click on a blank space to hide the keyboard.
+- Change the keyboard done button to next
+
+## Add Recent Files History Feature
 
 - Date: 2024-11-27
 - Version: [1.0.9]
