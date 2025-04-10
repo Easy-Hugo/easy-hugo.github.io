@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://easy-hugo.github.io/sitemap.xml

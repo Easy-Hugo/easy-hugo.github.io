@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>EasyHugo</title>
+    <link>https://easy-hugo.github.io/</link>
+    <description>Recent content on EasyHugo</description>
+    <image>
+      <title>EasyHugo</title>
+      <url>https://easy-hugo.github.io/images/avatar.png</url>
+      <link>https://easy-hugo.github.io/images/avatar.png</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 27 Nov 2024 14:07:59 +0800</lastBuildDate>
+    <atom:link href="https://easy-hugo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Change Log</title>
+      <link>https://easy-hugo.github.io/posts/change-log/</link>
+      <pubDate>Wed, 27 Nov 2024 14:07:59 +0800</pubDate>
+      <guid>https://easy-hugo.github.io/posts/change-log/</guid>
+      <description>&lt;h2 id=&#34;1011&#34;&gt;1.0.11&lt;/h2&gt;
+&lt;h3 id=&#34;add-undo-and-redo&#34;&gt;Add undo and redo&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Date: 2025-01-01&lt;/li&gt;
+&lt;li&gt;Version: [1.0.11]&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Easy-Hugo/release/releases&#34;&gt;Download Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;1010&#34;&gt;1.0.10&lt;/h2&gt;
+&lt;h3 id=&#34;click-on-a-blank-space-to-hide-the-keyboard&#34;&gt;Click on a blank space to hide the keyboard&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Date: 2024-12-13&lt;/li&gt;
+&lt;li&gt;Version: [1.0.10]&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Easy-Hugo/release/releases&#34;&gt;Download Link&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;When setting the title, you can click on a blank space to hide the keyboard.&lt;/li&gt;
+&lt;li&gt;Change the keyboard done button to next&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;add-recent-files-history-feature&#34;&gt;Add Recent Files History Feature&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Date: 2024-11-27&lt;/li&gt;
+&lt;li&gt;Version: [1.0.9]&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Easy-Hugo/release/releases&#34;&gt;Download Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;109&#34;&gt;1.0.9&lt;/h2&gt;
+&lt;p&gt;Add Recent Files History Feature&lt;/p&gt;
+&lt;h3 id=&#34;new-features&#34;&gt;New Features:&lt;/h3&gt;
+&lt;p&gt;Recent Files History: We have added a new &amp;ldquo;Recent Files&amp;rdquo; feature to the application, which allows users to quickly access files they have recently opened. This feature will automatically save the user&amp;rsquo;s file access history and display a list of recent files when the application starts, making it easier for users to resume their previous work.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<h2 id="1011">1.0.11</h2>
+<h3 id="add-undo-and-redo">Add undo and redo</h3>
+<ul>
+<li>Date: 2025-01-01</li>
+<li>Version: [1.0.11]</li>
+<li><a href="https://github.com/Easy-Hugo/release/releases">Download Link</a></li>
+</ul>
+<h2 id="1010">1.0.10</h2>
+<h3 id="click-on-a-blank-space-to-hide-the-keyboard">Click on a blank space to hide the keyboard</h3>
+<ul>
+<li>Date: 2024-12-13</li>
+<li>Version: [1.0.10]</li>
+<li><a href="https://github.com/Easy-Hugo/release/releases">Download Link</a></li>
+<li>When setting the title, you can click on a blank space to hide the keyboard.</li>
+<li>Change the keyboard done button to next</li>
+</ul>
+<h2 id="add-recent-files-history-feature">Add Recent Files History Feature</h2>
+<ul>
+<li>Date: 2024-11-27</li>
+<li>Version: [1.0.9]</li>
+<li><a href="https://github.com/Easy-Hugo/release/releases">Download Link</a></li>
+</ul>
+<h2 id="109">1.0.9</h2>
+<p>Add Recent Files History Feature</p>
+<h3 id="new-features">New Features:</h3>
+<p>Recent Files History: We have added a new &ldquo;Recent Files&rdquo; feature to the application, which allows users to quickly access files they have recently opened. This feature will automatically save the user&rsquo;s file access history and display a list of recent files when the application starts, making it easier for users to resume their previous work.</p>
+<h3 id="improvements">Improvements:</h3>
+<p>Improved file loading speed to ensure users can access files faster.
+Enhanced the user interface to make the &ldquo;Recent Files&rdquo; list more intuitive and user-friendly.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>New Choice for Updating Hugo Blogs on Android: EasyHugo</title>
+      <link>https://easy-hugo.github.io/posts/how-to-update-hugo-blog-on-android-phone/</link>
+      <pubDate>Mon, 18 Nov 2024 11:49:53 +0800</pubDate>
+      <guid>https://easy-hugo.github.io/posts/how-to-update-hugo-blog-on-android-phone/</guid>
+      <description>&lt;p&gt;With the development of Internet technology, static blogs have become increasingly popular among bloggers due to their lightweight and efficient nature. However, due to the lack of backend support, static blog programs such as HUGO, HEXO, Jekyll, etc., often appear inconvenient when publishing articles. Traditional methods usually require complex operations on a PC, which is undoubtedly a restriction for bloggers who wish to record the details of their lives at any time.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>With the development of Internet technology, static blogs have become increasingly popular among bloggers due to their lightweight and efficient nature. However, due to the lack of backend support, static blog programs such as HUGO, HEXO, Jekyll, etc., often appear inconvenient when publishing articles. Traditional methods usually require complex operations on a PC, which is undoubtedly a restriction for bloggers who wish to record the details of their lives at any time.</p>
+<h3 id="traditional-solutions-and-their-limitations">Traditional Solutions and Their Limitations</h3>
+<h2 id="direct-operation-on-github">Direct Operation on GitHub</h2>
+<p>Although GitHub allows users to create and modify files directly on its website, the issue of unstable access within China frequently interrupts the continuity of creation, especially when network fluctuations occur during editing, which can lead to the loss of unsaved work.</p>
+<h2 id="stackedit">StackEdit</h2>
+<p>This online Markdown editor supports private deployment and binding with GitHub repositories, making it suitable for quick editing on mobile devices. However, the limitation of not supporting image uploads restricts content creation, particularly for bloggers who rely on visual elements to enrich their articles.</p>
+<h2 id="weblog-app">Weblog App</h2>
+<p>As an Android application designed specifically for Hugo, HEXO, and other blog frameworks, Weblog offers a relatively complete mobile solution, including file management and Git integration. However, it also faces the problem of inconvenient image processing, requiring the use of additional tools to complete comprehensive blog updates.</p>
+<h2 id="code-server">Code-server</h2>
+<p>This browser-based development environment provides convenience for remote collaboration, especially suitable for seamless switching between multiple devices. However, server costs and network latency may pose obstacles in its usage.</p>
+<h2 id="easyhugo">EasyHugo</h2>
+<p>Your All-in-One Blog Assistant
+It is against this backdrop that EasyHugo was born. This application, specially designed for managing Hugo blogs, not only addresses all the aforementioned pain points but also brings more surprises:</p>
+<p><img alt="EasyHugo" loading="lazy" src="https://easy-hugo.github.io/images/quick-start/6.PNG"></p>
+<ol>
+<li><strong>Manage Your Blog Anytime, Anywhere</strong>: No matter where you are, as long as you have a smartphone, you can easily write, edit, and publish blog posts.</li>
+<li><strong>Powerful Image Management Features</strong>: The built-in image management tool allows you to upload freely, ensuring that every article can be presented to readers in the best form.</li>
+<li><strong>One-click Sync to Remote Repository</strong>: With just a simple click, you can synchronize local changes to the remote repository, achieving seamless updates.</li>
+<li><strong>Optimized User Experience</strong>: A clean and intuitive interface makes it easy for beginners, even those without a programming background, to get started quickly.</li>
+</ol>
+<h3 id="conclusion">Conclusion</h3>
+<p>EasyHugo is not just a tool; it&rsquo;s a bridge connecting creators and readers. It breaks down spatial barriers, allowing inspiration to be captured anytime; it simplifies the process, making creation purer. If you are looking for a more flexible and efficient way to manage your blog, then EasyHugo is definitely worth trying!</p>
+<p><img alt="WebSite" loading="lazy" src="https://easy-hugo.github.io/">
+<img alt="Github" loading="lazy" src="https://github.com/Easy-Hugo/release/releases">
+<img alt="Download" loading="lazy" src="https://github.com/Easy-Hugo/release/releases"></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Quick Start</title>
+      <link>https://easy-hugo.github.io/posts/quick-start/</link>
+      <pubDate>Sun, 17 Nov 2024 13:47:56 +0800</pubDate>
+      <guid>https://easy-hugo.github.io/posts/quick-start/</guid>
+      <description>&lt;h2 id=&#34;hugonest&#34;&gt;HugoNest&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://hugonest.github.io/&#34;&gt;HugoNest&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://hugonest.github.io/static/media/dashboard.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Aight, y’all, I been grindin’ in silence, but today? TODAY I finally got somethin’ to share that’s straight 🔥. Meet &lt;strong&gt;HugoNest&lt;/strong&gt;—the app that’s gon’ change how you manage your Hugo blog, no cap.&lt;/p&gt;
+&lt;p&gt;Ever tried tweakin’ your blog post while ridin’ the train? Or got a dope idea but ain’t near a laptop? Yeah, me too. That’s why I built this. &lt;strong&gt;HugoNest lets you edit, push, and sync your Hugo blog RIGHT from your phone&lt;/strong&gt;—no stress, no command line voodoo, just &lt;em&gt;tap, type, and post&lt;/em&gt;.&lt;br&gt;
+2&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<h2 id="hugonest">HugoNest</h2>
+<p><a href="https://hugonest.github.io/">HugoNest</a></p>
+<p><img loading="lazy" src="https://hugonest.github.io/static/media/dashboard.png"></p>
+<p>Aight, y’all, I been grindin’ in silence, but today? TODAY I finally got somethin’ to share that’s straight 🔥. Meet <strong>HugoNest</strong>—the app that’s gon’ change how you manage your Hugo blog, no cap.</p>
+<p>Ever tried tweakin’ your blog post while ridin’ the train? Or got a dope idea but ain’t near a laptop? Yeah, me too. That’s why I built this. <strong>HugoNest lets you edit, push, and sync your Hugo blog RIGHT from your phone</strong>—no stress, no command line voodoo, just <em>tap, type, and post</em>.<br>
+2</p>
+<h3 id="why-this-joint-slaps">Why This Joint Slaps:</h3>
+<ul>
+<li><strong>Git Magic on Mobile</strong>: Clone, pull, push—sync your repo like you on a desktop, but you ain’t.</li>
+<li><strong>AI That Actually Helps</strong>: Stuck on a title? AI gotchu. Typos? AI fixes ’em. Want a whole section rewritten? <em>You decide how much help you want</em>—just pick Basic, Standard, or Full mode.</li>
+<li><strong>Markdown Made Easy</strong>: Front Matter support, clean editing, all optimized for tiny screens (big fingers welcome).</li>
+<li><strong>Media on the Fly</strong>: Snap a pic, upload, bam—it’s in your post. No 10-step nonsense.</li>
+<li><strong>Real-Time Sync</strong>: Changes pop off instantly. No “did it save?” panic.</li>
+</ul>
+<p><strong>Why I’m Hyped</strong>: ‘Cause I’m tired of bein’ chained to a desk to blog. Now? Coffee shop, toilet break, chillin’ in the whip—<strong>wherever I get the vibe, I can create</strong>. And the best part? <strong>No tech degree required.</strong></p>
+<p>If you rock with Hugo (or wanna start), try it out and let me know what you think! <strong>Ain’t just an app—it’s freedom.</strong></p>
+<p>📲 <strong>Download here</strong>: <a href="https://apps.apple.com/us/app/hugonest/id6744083788">https://apps.apple.com/us/app/hugonest/id6744083788</a></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>How to Set Up a Deploy Key for Github</title>
+      <link>https://easy-hugo.github.io/posts/how-to-set-up-a-deploy-key-for-github/</link>
+      <pubDate>Sat, 16 Nov 2024 13:31:19 +0800</pubDate>
+      <guid>https://easy-hugo.github.io/posts/how-to-set-up-a-deploy-key-for-github/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Go to repo Settings.
+&lt;img loading=&#34;lazy&#34; src=&#34;https://easy-hugo.github.io/images/how-to-set-up-a-deploy-key-for-github/1.png&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Go to Deploy Keys.
+&lt;img loading=&#34;lazy&#34; src=&#34;https://easy-hugo.github.io/images/how-to-set-up-a-deploy-key-for-github/2.png&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Click Add deploy key
+&lt;img loading=&#34;lazy&#34; src=&#34;https://easy-hugo.github.io/images/how-to-set-up-a-deploy-key-for-github/3.png&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Paste into key as an SSH public key.
+&lt;img loading=&#34;lazy&#34; src=&#34;https://easy-hugo.github.io/images/how-to-set-up-a-deploy-key-for-github/4.png&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Click Allow write access.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</description>
+      <content:encoded><![CDATA[<ol>
+<li>
+<p>Go to repo Settings.
+<img loading="lazy" src="/images/how-to-set-up-a-deploy-key-for-github/1.png"></p>
+</li>
+<li>
+<p>Go to Deploy Keys.
+<img loading="lazy" src="/images/how-to-set-up-a-deploy-key-for-github/2.png"></p>
+</li>
+<li>
+<p>Click Add deploy key
+<img loading="lazy" src="/images/how-to-set-up-a-deploy-key-for-github/3.png"></p>
+</li>
+<li>
+<p>Paste into key as an SSH public key.
+<img loading="lazy" src="/images/how-to-set-up-a-deploy-key-for-github/4.png"></p>
+</li>
+<li>
+<p>Click Allow write access.</p>
+</li>
+</ol>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>EasyHugo - The Ultimate Mobile Tool for Hugo Blog Management</title>
+      <link>https://easy-hugo.github.io/posts/interduce/</link>
+      <pubDate>Sat, 16 Nov 2024 13:16:46 +0800</pubDate>
+      <guid>https://easy-hugo.github.io/posts/interduce/</guid>
+      <description>&lt;p&gt;EasyHugo is a minimalist and powerful mobile app designed specifically for managing Hugo static websites. It empowers users to create, edit, and manage their blogs anytime, anywhere, with complete control over their data. Whether you&amp;rsquo;re documenting your life or managing multiple Hugo sites, EasyHugo makes the process effortless.&lt;/p&gt;
+&lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Multi-Site Management&lt;/strong&gt;
+Manage multiple Hugo websites effortlessly. Whether it&amp;rsquo;s a personal blog, team collaboration site, or technical documentation, EasyHugo lets you switch and manage them with ease.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>EasyHugo is a minimalist and powerful mobile app designed specifically for managing Hugo static websites. It empowers users to create, edit, and manage their blogs anytime, anywhere, with complete control over their data. Whether you&rsquo;re documenting your life or managing multiple Hugo sites, EasyHugo makes the process effortless.</p>
+<h2 id="key-features">Key Features</h2>
+<ol>
+<li>
+<p><strong>Multi-Site Management</strong>
+Manage multiple Hugo websites effortlessly. Whether it&rsquo;s a personal blog, team collaboration site, or technical documentation, EasyHugo lets you switch and manage them with ease.</p>
+</li>
+<li>
+<p><strong>Markdown Editor</strong>
+Built-in Markdown editor makes writing on the go seamless. Insert images, code snippets, and more while creating high-quality content directly from your phone.</p>
+</li>
+<li>
+<p><strong>TAG and CATEGORY Management</strong>
+Provides convenient tools for managing tags and categories, enabling you to quickly organize and structure your articles while enhancing the readability and coherence of your blog content.</p>
+</li>
+<li>
+<p><strong>File Management</strong>
+Supports efficient file management, allowing you to easily upload, edit, and delete blog resource files, making it simple to keep your content well-organized.</p>
+</li>
+<li>
+<p><strong>Real-Time Article Preview</strong>
+Preview your articles instantly as you write, ensuring every post is perfect before publishing.</p>
+</li>
+<li>
+<p><strong>Git Sync</strong>
+The standout feature of EasyHugo is its ability to sync your articles and website content directly to your Git repository. Your data is entirely under your control, ensuring privacy and security without relying on third-party services.</p>
+</li>
+<li>
+<p><strong>Multi-Language Support</strong>
+Supports 12 languages, making it accessible to users worldwide.</p>
+</li>
+<li>
+<p><strong>Dark Mode</strong>
+Enjoy a comfortable blogging experience day or night with a sleek dark mode option.</p>
+</li>
+</ol>
+<h2 id="who-is-easyhugo-for">Who Is EasyHugo For?</h2>
+<ul>
+<li><strong>Individual Bloggers</strong>: Capture thoughts and create quality content on the go.</li>
+<li><strong>Technical Writers</strong>: Manage documentation and tutorials effortlessly.</li>
+</ul>
+<h2 id="why-choose-easyhugo">Why Choose EasyHugo?</h2>
+<p><strong>Hugo-Focused</strong>: A streamlined app tailored for Hugo users, free of unnecessary features.</p>
+<ul>
+<li><strong>User Data Ownership</strong>: Your data is stored and operated entirely under your control, respecting your privacy.</li>
+<li><strong>Global Accessibility</strong>: Multi-language support and dark mode for the best user experience anywhere, anytime.</li>
+</ul>
+<p>EasyHugo unlocks the potential of Hugo blogging, giving you the freedom to create and manage your sites on your own terms, no matter where you are.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://easy-hugo.github.io/posts/privacy-policy/</link>
+      <pubDate>Fri, 15 Nov 2024 23:37:15 +0800</pubDate>
+      <guid>https://easy-hugo.github.io/posts/privacy-policy/</guid>
+      <description>&lt;p&gt;We take your privacy very seriously. This policy outlines how we collect, use, and protect your personal information.&lt;/p&gt;
+&lt;h2 id=&#34;information-we-collect&#34;&gt;Information We Collect:&lt;/h2&gt;
+&lt;p&gt;We only collect analytical and crash data. This data includes information about how you use our app, device information, and crash reports. We use this data to improve the performance and stability of our app.&lt;/p&gt;
+&lt;h2 id=&#34;how-we-use-your-information&#34;&gt;How We Use Your Information:&lt;/h2&gt;
+&lt;p&gt;We use the data we collect to analyze user behavior and improve the performance of our app. We may also use this data to troubleshoot technical issues and improve user experience.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>We take your privacy very seriously. This policy outlines how we collect, use, and protect your personal information.</p>
+<h2 id="information-we-collect">Information We Collect:</h2>
+<p>We only collect analytical and crash data. This data includes information about how you use our app, device information, and crash reports. We use this data to improve the performance and stability of our app.</p>
+<h2 id="how-we-use-your-information">How We Use Your Information:</h2>
+<p>We use the data we collect to analyze user behavior and improve the performance of our app. We may also use this data to troubleshoot technical issues and improve user experience.</p>
+<h2 id="how-we-protect-your-information">How We Protect Your Information:</h2>
+<p>We take appropriate security measures to protect your information from unauthorized access, disclosure, alteration, or destruction. We limit access to your information to those who need it to perform their job functions. We do not sell or share your personal information with third parties.</p>
+<h2 id="updates-to-this-policy">Updates to This Policy:</h2>
+<p>We may update this policy from time to time. Any changes to this policy will be posted on our website.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Hello Workd</title>
+      <link>https://easy-hugo.github.io/posts/hello_world/</link>
+      <pubDate>Sun, 10 Nov 2024 19:30:03 +0800</pubDate>
+      <guid>https://easy-hugo.github.io/posts/hello_world/</guid>
+      <description>&lt;p&gt;Hello Workd&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Hello Workd</p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>
