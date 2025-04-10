@@ -86,7 +86,7 @@ url = "/index.xml"
 
 [params.assets]
 apple_touch_icon = "/images/512.png"
-avatarURL = "/images/256.png"
+avatarURL = "/images/512.png"
 favicon = "/images/favicon.ico"
 favicon16x16 = "/images/16.png"
 favicon32x32 = "/images/32.png"
@@ -109,8 +109,8 @@ shouldSort = true
 threshold = 0.4
 
 [params.label]
-icon = "/images/512.png"
-iconHeight = 35
+icon = "/images/32.png"
+iconHeight = 32
 text = ""
 
 [params.analytics.bing]
