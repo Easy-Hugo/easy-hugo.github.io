@@ -4,47 +4,27 @@ date = 2024-11-17T13:47:56+08:00
 draft = false
 +++
 
-## [DownLoad](https://github.com/Easy-Hugo/release/releases)
+## HugoNest
 
-## Add Your Repository
+[HugoNest](https://hugonest.github.io/)
 
-![Add Your Repository](images/quick-start/1.PNG)
+![](https://hugonest.github.io/static/media/dashboard.png)
 
-## Set the Name and Your Repository's Git Address
+Aight, y’all, I been grindin’ in silence, but today? TODAY I finally got somethin’ to share that’s straight 🔥. Meet **HugoNest**—the app that’s gon’ change how you manage your Hugo blog, no cap.
 
-Note that it must be an SSH protocol address, as we need to write to the repository.
+Ever tried tweakin’ your blog post while ridin’ the train? Or got a dope idea but ain’t near a laptop? Yeah, me too. That’s why I built this. **HugoNest lets you edit, push, and sync your Hugo blog RIGHT from your phone**—no stress, no command line voodoo, just _tap, type, and post_.  
+2
 
-![Set the Name and Your Repository's Git Address](images/quick-start/2.PNG)
+### Why This Joint Slaps:
 
-## Copy the Public Key and Set It in Your Repository
+- **Git Magic on Mobile**: Clone, pull, push—sync your repo like you on a desktop, but you ain’t.
+- **AI That Actually Helps**: Stuck on a title? AI gotchu. Typos? AI fixes ’em. Want a whole section rewritten? _You decide how much help you want_—just pick Basic, Standard, or Full mode.
+- **Markdown Made Easy**: Front Matter support, clean editing, all optimized for tiny screens (big fingers welcome).
+- **Media on the Fly**: Snap a pic, upload, bam—it’s in your post. No 10-step nonsense.
+- **Real-Time Sync**: Changes pop off instantly. No “did it save?” panic.
 
-If you use GitHub, you can refer to this guide: [How to Set Up a Deploy Key for GitHub](/posts/how-to-set-up-a-deploy-key-for-github/)
+**Why I’m Hyped**: ‘Cause I’m tired of bein’ chained to a desk to blog. Now? Coffee shop, toilet break, chillin’ in the whip—**wherever I get the vibe, I can create**. And the best part? **No tech degree required.**
 
-![Copy the Public Key and Set It in Your Repository](images/quick-start/3.PNG)
+If you rock with Hugo (or wanna start), try it out and let me know what you think! **Ain’t just an app—it’s freedom.**
 
-## Sync Your Repository
-
-There is also a reset option here, which allows you to discard all local changes.
-![Sync Your Repository](images/quick-start/4.PNG)
-
-## Start Writing
-
-After synchronization is complete, swipe right to return, then click on the repository you want to view to see the list of all files.
-Blue files indicate that they have been modified but not yet synchronized with the Git repository.
-![Start Writing](images/quick-start/5.PNG)
-
-## Edit the Main Text
-
-![Edit the Main Text](images/quick-start/6.PNG)
-
-## Preview
-
-![Preview](images/quick-start/7.jpg)
-
-## Set Your Article
-
-![Set Your Article](images/quick-start/8.PNG)
-
-## Sync Your Latest Article
-
-![Sync Your Latest Article](images/quick-start/9.PNG)
+📲 **Download here**: [https://apps.apple.com/us/app/hugonest/id6744083788](https://apps.apple.com/us/app/hugonest/id6744083788)
